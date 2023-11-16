@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Lucky Miya
-- 👀 I’m interested in everything...
-- 🌱 I’m currently learning a lot of things...
-- 💞️ I’m looking to collaborate on anything...
-- 📫 I can't be reached but don't worry about it i'll reach you ...
+- 👋 Hi my name is Lucky Miya(The Insominiac)
+- 👀 I’m interested in Web development, UI Design and Web Animations.
+- 🌱 I’m currently learning React, MongoDB and Node.js
+- 💞️ I’m looking to collaborate on anything with Javascript, React, Node.js
+- looking to reach out.
+   + instagram: @in.somniac_369
+   + web: luckymiya.com
 
-<!---
-Lucky305-dev/Lucky305-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+--------------------------------------------------------
+
